@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Shivamgupta4651/Shivamgupta4641/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
 <h3 align="center">A passionate Computer Science enthusiast, aspiring Data Scientist and Data Analyst from India</h3>
 
