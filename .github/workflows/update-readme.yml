@@ -1,0 +1,19 @@
+name: Update GitHub Profile README
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:    # Also lets you trigger manually
+
+jobs:
+  update-readme:
+    name: Update README with latest repos
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v2
+
+      - name: Update README with latest repos
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://github.com/Shivamgupta4651.atom"
