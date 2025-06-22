@@ -1,19 +1,44 @@
-name: Update GitHub Profile README
+name: Update README with latest repos
 
 on:
   schedule:
-    - cron: '0 * * * *'  # Runs every hour
-  workflow_dispatch:    # Also lets you trigger manually
+    - cron: '0 * * * *' # Runs every hour
+  workflow_dispatch:
+
+permissions:
+  contents: write  # Required to commit changes to the repo
 
 jobs:
   update-readme:
-    name: Update README with latest repos
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout Repo
+      - name: Checkout Repository
         uses: actions/checkout@v2
 
-      - name: Update README with latest repos
+      - name: Blog Post Workflow
         uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://github.com/Shivamgupta4651.atom"
+          feed_list: https://github.com/Shivamgupta4651.atom
+          gh_token: ${{ secrets.GITHUB_TOKEN }}
+          readme_path: ./README.md
+          max_post_count: 5
+          disable_sort: false
+          sort_order: desc
+          reverse_order: false
+          filter_comments: stackoverflow/Comment by $author/,stackexchange/Comment by $author/
+          template: default
+          date_format: UTC:ddd mmm dd yyyy h:MM TT
+          user_agent: rss-parser
+          accept_header: application/rss+xml
+          commit_message: Updated with the latest blog posts
+          committer_username: blog-post-bot
+          committer_email: blog-post-bot@example.com
+          output_only: false
+          enable_keepalive: true
+          retry_count: 0
+          retry_wait_time: 1
+          disable_html_encoding: false
+          categories_template: default
+          disable_item_validation: false
+          skip_commit: false
+          dummy_commit_message: dummy commit to keep the repository active, see https://git.io/Jtm4V
