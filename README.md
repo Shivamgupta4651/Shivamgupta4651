@@ -20,6 +20,12 @@
 
 ---
 
+### 📰 My Latest GitHub Repositories/Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/shivamguptaiitp" target="_blank">
@@ -80,4 +86,3 @@
 <!--END_SECTION:activity-->
 
 ---
-
