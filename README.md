@@ -22,6 +22,11 @@
 
 ### 📰 My Latest GitHub Repositories/Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Shivamgupta4651 pushed to main in Shivamgupta4651/Shivamgupta4651](https://github.com/Shivamgupta4651/Shivamgupta4651/compare/dc906b552b...60826fc90f)
+- [Shivamgupta4651 pushed to main in Shivamgupta4651/Shivamgupta4651](https://github.com/Shivamgupta4651/Shivamgupta4651/compare/839f573aaf...dc906b552b)
+- [Shivamgupta4651 pushed to main in Shivamgupta4651/Shivamgupta4651](https://github.com/Shivamgupta4651/Shivamgupta4651/compare/c50f2739ec...839f573aaf)
+- [Shivamgupta4651 pushed to main in Shivamgupta4651/Shivamgupta4651](https://github.com/Shivamgupta4651/Shivamgupta4651/compare/f26561a0e7...c50f2739ec)
+- [Shivamgupta4651 pushed to main in Shivamgupta4651/Portfolio](https://github.com/Shivamgupta4651/Portfolio/compare/fb68f87f89...d238140050)
 <!-- BLOG-POST-LIST:END -->
 
 ---
