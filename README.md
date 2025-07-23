@@ -23,8 +23,6 @@
 ### 🗂 My Latest GitHub Repositories
 <!-- BLOG-POST-LIST:START:REPO -->
 - [Shivamgupta4651 pushed to main in Shivamgupta4651/Shivamgupta4651](https://github.com/Shivamgupta4651/Shivamgupta4651/compare/e444c34279...636f84d0c6)
-- [Shivamgupta4651 pushed to main in Shivamgupta4651/Shivamgupta4651](https://github.com/Shivamgupta4651/Shivamgupta4651/compare/dc906b552b...60826fc90f)
-- [Shivamgupta4651 pushed to main in Shivamgupta4651/Shivamgupta4651](https://github.com/Shivamgupta4651/Shivamgupta4651/compare/839f573aaf...dc906b552b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
