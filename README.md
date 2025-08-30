@@ -22,11 +22,11 @@
 
 ### 🗂 My Latest GitHub Repositories
 <!-- BLOG-POST-LIST:START:REPO -->
+- [Shivamgupta4651 pushed fog-storm-detection](https://github.com/Shivamgupta4651/fog-storm-detection/compare/550700a219...13f9045abd)
+- [Shivamgupta4651 created a branch](https://github.com/Shivamgupta4651/fog-storm-detection/compare/0000000000...550700a219)
 - [Shivamgupta4651 pushed Sales-Performance-Dashboard-for-a-Stationery-Shop](https://github.com/Shivamgupta4651/Sales-Performance-Dashboard-for-a-Stationery-Shop/compare/7737440dd6...8233cb8fb0)
 - [Shivamgupta4651 pushed Sales-Performance-Dashboard-for-a-Stationery-Shop](https://github.com/Shivamgupta4651/Sales-Performance-Dashboard-for-a-Stationery-Shop/compare/cdd1cdb57d...7737440dd6)
 - [Shivamgupta4651 pushed Sales-Performance-Dashboard-for-a-Stationery-Shop](https://github.com/Shivamgupta4651/Sales-Performance-Dashboard-for-a-Stationery-Shop/compare/a196998e1f...cdd1cdb57d)
-- [Shivamgupta4651 created a branch](https://github.com/Shivamgupta4651/Sales-Performance-Dashboard-for-a-Stationery-Shop/compare/0000000000...a196998e1f)
-- [Shivamgupta4651 pushed student-result-visualization](https://github.com/Shivamgupta4651/student-result-visualization/compare/45c1bc5956...e8a95b0f5b)
 <!-- BLOG-POST-LIST:END -->
 
 ---
