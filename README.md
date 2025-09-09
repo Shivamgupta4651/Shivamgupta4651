@@ -22,11 +22,11 @@
 
 ### 🗂 My Latest GitHub Repositories
 <!-- BLOG-POST-LIST:START:REPO -->
+- [Shivamgupta4651 pushed Road_Accident_Analysis](https://github.com/Shivamgupta4651/Road_Accident_Analysis/compare/96921ce45f...0267b23567)
+- [Shivamgupta4651 pushed Road_Accident_Analysis](https://github.com/Shivamgupta4651/Road_Accident_Analysis/compare/2b5c3c02f2...96921ce45f)
+- [Shivamgupta4651 pushed Road_Accident_Analysis](https://github.com/Shivamgupta4651/Road_Accident_Analysis/compare/b854598eab...2b5c3c02f2)
 - [Shivamgupta4651 pushed Road_Accident_Analysis](https://github.com/Shivamgupta4651/Road_Accident_Analysis/compare/7690489c73...b854598eab)
 - [Shivamgupta4651 pushed Road_Accident_Analysis](https://github.com/Shivamgupta4651/Road_Accident_Analysis/compare/ddd9739c5a...7690489c73)
-- [Shivamgupta4651 pushed Road_Accident_Analysis](https://github.com/Shivamgupta4651/Road_Accident_Analysis/compare/27c96fdce8...ddd9739c5a)
-- [Shivamgupta4651 deleted](https://github.com/Shivamgupta4651/Road_Accident_Analysis/compare/27c96fdce8...0000000000)
-- [Shivamgupta4651 created a branch](https://github.com/Shivamgupta4651/Road_Accident_Analysis/compare/0000000000...27c96fdce8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
