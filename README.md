@@ -22,11 +22,11 @@
 
 ### 🗂 My Latest GitHub Repositories
 <!-- BLOG-POST-LIST:START:REPO -->
-- [Shivamgupta4651 pushed fog-storm-detection](https://github.com/Shivamgupta4651/fog-storm-detection/compare/550700a219...13f9045abd)
-- [Shivamgupta4651 created a branch](https://github.com/Shivamgupta4651/fog-storm-detection/compare/0000000000...550700a219)
-- [Shivamgupta4651 pushed Sales-Performance-Dashboard-for-a-Stationery-Shop](https://github.com/Shivamgupta4651/Sales-Performance-Dashboard-for-a-Stationery-Shop/compare/7737440dd6...8233cb8fb0)
-- [Shivamgupta4651 pushed Sales-Performance-Dashboard-for-a-Stationery-Shop](https://github.com/Shivamgupta4651/Sales-Performance-Dashboard-for-a-Stationery-Shop/compare/cdd1cdb57d...7737440dd6)
-- [Shivamgupta4651 pushed Sales-Performance-Dashboard-for-a-Stationery-Shop](https://github.com/Shivamgupta4651/Sales-Performance-Dashboard-for-a-Stationery-Shop/compare/a196998e1f...cdd1cdb57d)
+- [Shivamgupta4651 pushed Road_Accident_Analysis](https://github.com/Shivamgupta4651/Road_Accident_Analysis/compare/7690489c73...b854598eab)
+- [Shivamgupta4651 pushed Road_Accident_Analysis](https://github.com/Shivamgupta4651/Road_Accident_Analysis/compare/ddd9739c5a...7690489c73)
+- [Shivamgupta4651 pushed Road_Accident_Analysis](https://github.com/Shivamgupta4651/Road_Accident_Analysis/compare/27c96fdce8...ddd9739c5a)
+- [Shivamgupta4651 deleted](https://github.com/Shivamgupta4651/Road_Accident_Analysis/compare/27c96fdce8...0000000000)
+- [Shivamgupta4651 created a branch](https://github.com/Shivamgupta4651/Road_Accident_Analysis/compare/0000000000...27c96fdce8)
 <!-- BLOG-POST-LIST:END -->
 
 ---
