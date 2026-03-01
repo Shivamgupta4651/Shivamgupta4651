@@ -13,10 +13,10 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **AI**
 - 💼 Looking for **Data Science & Analytics Internship Opportunities**
-- 📄 [View my resume](https://drive.google.com/file/d/1bMSR9sbkh-V2sXJMjWUO9DHZ-eTGQ6Re/view?usp=sharing)
-- ⚡ Fun fact: **I am Funny**
+- 📄 [View my resume](https://drive.google.com/file/d/1W7Yg3Bevb5AhjpDaxUAF0sVk5Qf0GMTV/view?usp=sharing)
+- ⚡ Fun fact: **I am always chill.**
 
 ---
 
@@ -36,7 +36,7 @@
   <a href="https://twitter.com/shivamguptaiitp" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/shivam-gupta-8a2a781b0" target="_blank">
+  <a href="https://www.linkedin.com/in/shivamgupta4651" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100090563367092" target="_blank">
