@@ -1,90 +1,170 @@
 ![banner](https://github.com/Shivamgupta4651/Shivamgupta4641/blob/main/Abstract%20Technology%20Profile%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Shivam Gupta</h1>
-<h3 align="center">A passionate Computer Science enthusiast, aspiring Data Scientist and Data Analyst from India</h3>
+<h3 align="center">Aspiring Data Scientist | Data Analyst | Computer Science Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamgupta4651&label=Profile%20views&color=0e75b6&style=flat" alt="shivamgupta4651" /> </p>
+<img align="right" alt="coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
 <p align="left">
-  <a href="https://twitter.com/shivamguptaiitp" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/shivamguptaiitp?logo=twitter&style=for-the-badge" alt="twitter" />
-  </a>
+<img src="https://komarev.com/ghpvc/?username=shivamgupta4651&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
-- 🌱 I’m currently learning **AI**
-- 💼 Looking for **Data Science & Analytics Internship Opportunities**
-- 📄 [View my resume](https://drive.google.com/file/d/1W7Yg3Bevb5AhjpDaxUAF0sVk5Qf0GMTV/view?usp=sharing)
-- ⚡ Fun fact: **I am always chill.**
+---
+
+# 🚀 About Me
+
+- 🌱 Currently learning **Artificial Intelligence & Machine Learning**
+- 📊 Interested in **Data Science, Data Analytics & Visualization**
+- 💼 Looking for **Data Science / Data Analyst Internship Opportunities**
+- ⚡ Fun fact: **I enjoy finding patterns hidden inside data**
 
 ---
 
-### 🗂 My Latest GitHub Repositories
-<!-- BLOG-POST-LIST:START:REPO -->
-- [Shivamgupta4651 pushed Road_Accident_Analysis](https://github.com/Shivamgupta4651/Road_Accident_Analysis/compare/96921ce45f...0267b23567)
-- [Shivamgupta4651 pushed Road_Accident_Analysis](https://github.com/Shivamgupta4651/Road_Accident_Analysis/compare/2b5c3c02f2...96921ce45f)
-- [Shivamgupta4651 pushed Road_Accident_Analysis](https://github.com/Shivamgupta4651/Road_Accident_Analysis/compare/b854598eab...2b5c3c02f2)
-- [Shivamgupta4651 pushed Road_Accident_Analysis](https://github.com/Shivamgupta4651/Road_Accident_Analysis/compare/7690489c73...b854598eab)
-- [Shivamgupta4651 pushed Road_Accident_Analysis](https://github.com/Shivamgupta4651/Road_Accident_Analysis/compare/ddd9739c5a...7690489c73)
-<!-- BLOG-POST-LIST:END -->
+# 📄 Resume
 
----
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/shivamgupta4651" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100090563367092" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/shivam6510gupta" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
+
+<a href="https://drive.google.com/file/d/1W7Yg3Bevb5AhjpDaxUAF0sVk5Qf0GMTV/view" target="_blank">
+
+<img src="https://img.shields.io/badge/View%20My%20Resume-Click%20Here-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
+
+</a>
+
 </p>
 
 ---
 
-<h3 align="left">Languages and Tools:</h3>
+# 🌐 Connect With Me
+
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" />
-  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" />
+
+<a href="https://www.linkedin.com/in/shivamgupta4651">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
+</a>
+
+<a href="mailto:shivamgupta.itp@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+
+<a href="https://instagram.com/shivam6510gupta">
+<img src="https://skillicons.dev/icons?i=instagram" height="40"/>
+</a>
+
 </p>
 
 ---
 
-### 🔥 GitHub Stats
+# 💻 Tech Stack
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=shivamgupta4651&layout=compact&theme=default&cache_seconds=3600" />
-</p>
+### Programming Languages
+<p>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=shivamgupta4651&show_icons=true&locale=en&theme=default&cache_seconds=3600" />
-</p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=java" />
+<img src="https://skillicons.dev/icons?i=javascript" />
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivamgupta4651&theme=default" />
 </p>
 
 ---
 
-### 🕒 Recent GitHub Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+### Data Science & Machine Learning
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=tensorflow" />
+<img src="https://skillicons.dev/icons?i=pytorch" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40"/>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40"/>
+
+</p>
+
+---
+
+### Web Development
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
+
+</p>
+
+---
+
+### Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40"/>
+
+<img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40"/>
+
+</p>
+
+---
+
+### Data Visualization
+
+<p>
+
+<img src="https://img.icons8.com/color/48/power-bi.png"/>
+
+<img src="https://img.icons8.com/color/48/tableau-software.png"/>
+
+</p>
+
+---
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git" />
+<img src="https://skillicons.dev/icons?i=github" />
+<img src="https://skillicons.dev/icons?i=vscode" />
+<img src="https://skillicons.dev/icons?i=postman" />
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=shivamgupta4651&show_icons=true&theme=tokyonight"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivamgupta4651&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com/?user=shivamgupta4651&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivamgupta4651&theme=tokyo-night"/>
+
+</p>
 
 ---
